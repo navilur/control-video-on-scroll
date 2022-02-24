@@ -23,3 +23,5 @@ function scrollPlay() {
 }
 
 window.requestAnimationFrame(scrollPlay);
+
+### https://navilur.github.io/control-video-on-scroll/
